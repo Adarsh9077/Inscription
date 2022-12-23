@@ -157,6 +157,23 @@ p,li{
     left: 50%;
     transform: translate(-50%,-60%);
 }
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #e63946;
+    font-weight: bold;
+    background-color: #f4f4f4;
+    border-radius: 1.9em;
+    padding: 1rem 1rem;
+    margin: .2rem ;
+    border: 2px solid #e63946;
+}
+.btn:hover {
+    background-color: #ffe3e3; 
+    
+}
+
 
 
 /* #################### SHOWCASE SECTION STYLING ####################### */
