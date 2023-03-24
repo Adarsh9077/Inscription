@@ -337,6 +337,54 @@ p,li{
     padding: 2rem;
     margin-bottom: 1rem;
 }
+/* ################## More Page Styling ##################  */
+.more{
+    margin-top: 4rem;
+    font-size: 2.5rem;
+    padding: 1rem 0rem;
+}
+
+.more-heading::after{
+    content: "";
+    display: block;
+    border-bottom: 8px solid #ee4758;
+    width: 100%;
+}
+.more-wrapper{
+    /* text-align: center; */
+    padding: 2rem;
+}
+
+/* .city_name{
+    padding: 0rem 0.5rem;
+} */
+
+.more .left-about{
+    width: 50%;
+    float: left;
+}
+
+.more .right-about{
+    width: 50%;
+    float: right;
+}
+
+.more-wrapper::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.more-wrapper li::before{
+    content: '\2713';
+    color: #ee4758;
+    font-weight: bold;
+    padding-right: 1rem;
+}
+.more-content{
+    font-size: 2rem;
+}
+
 
 /* ################# ABOUT PAGE STYLING ################### */
 
@@ -349,7 +397,7 @@ p,li{
 
 .about{
     margin-top: 4rem;
-    font-size: 2em;
+    font-size: 2rem;
     padding: 1rem 0rem;
 }
 
