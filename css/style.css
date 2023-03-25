@@ -355,9 +355,28 @@ p,li{
     padding: 2rem;
 }
 
-/* .city_name{
+.city_name{
     padding: 0rem 0.5rem;
-} */
+    /* margin-top: 2rem; */
+}
+.city1{
+    padding: 0rem 2rem;
+}
+.city2{
+    padding: 2rem 2rem;
+}
+.city3{
+    padding: 2rem 2rem;
+}
+.city4{
+    padding: 2rem 2rem;
+}
+.city5{
+    padding: 2rem 2rem;
+}
+.city6{
+    padding: 2rem 2rem;
+}
 
 .more .left-about{
     width: 50%;
