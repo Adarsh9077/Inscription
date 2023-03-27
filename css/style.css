@@ -342,10 +342,23 @@ li {
     color: #f4f4f4;
     text-align: center;
 }
+.minor_rocks_footer {
+    /* max-width: 100%; */
+    padding: 2rem;
+    background: #263238;
+    color: #f4f4f4;
+    text-align: center;
+}
 
 .social-media-links i {
     padding: 2rem;
     margin-bottom: 1rem;
+}
+.social_item {
+    color: white;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    padding: 1rem 1rem;
 }
 
 /* ################## More Page Styling ##################  */
@@ -488,6 +501,7 @@ li {
 /* ################ COUNT ITEMS ################# */
 
 .count div {
+    margin-top: 2rem;
     text-align: center;
     float: left;
     width: 25%;
